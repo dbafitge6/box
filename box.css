@@ -68,12 +68,13 @@ footer {
 @media screen and (max-width:768px) {
  main{
    flex-direction: column; 
-   margin: 50px auto;
-   width: 100%
+   margin-top: 50px;
+   margin-bottom: 30px;
+   width: 100%;
  }
  .step-box {
-  margin: 20px auto;
-  width: 90%
+  width: 90%;
+  margin: 0 auto 20px;
   
  }
  .step-box:last-child {
